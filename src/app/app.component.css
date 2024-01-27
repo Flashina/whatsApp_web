@@ -1,0 +1,43 @@
+.header {
+  height : 35vh;
+  background-color : #00A884
+}
+
+.fa-whatsapp {
+  font-size : 50px; !important
+}
+
+.Whatsapp-logo {
+  margin-left : 74px; !important
+
+}
+
+.innerbox  {
+  height: 170vh;
+  margin-left : 180px; !important
+  margin-bottom : 20px; !important
+
+}
+
+.barcode {
+  height : 45vh;
+  width : 45vh;
+
+}
+
+.get {
+  font-size : 15px
+}
+
+.down {
+  margin-right : 205px; !important
+}
+
+li {
+  word-spacing : 1px
+}
+
+.need:hover {
+  text-decoration: underline
+
+}
